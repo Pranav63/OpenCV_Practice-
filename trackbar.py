@@ -1,3 +1,5 @@
+#Draws a black canvas and gives the bars of blue , gren and red color
+#for you to create various hues combinations our of the BGR combination 
 import numpy as np 
 import cv2 
 import matplotlib.pyplot as plt 
